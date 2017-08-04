@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFrameworks>netcoreapp2.0</TargetFrameworks>
+    <MvcRazorCompileOnPublish>true</MvcRazorCompileOnPublish>
+    <AssetTargetFallback>$(AssetTargetFallback);portable-net45+win8+wp8+wpa81;</AssetTargetFallback>
+    <UserSecretsId>aspnet-SRworking-FB05D889-C2BD-40BD-BA15-51BC57856871</UserSecretsId>
+    <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0-preview2-final" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.0.0-preview2-25794" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR.Http" Version="1.0.0-preview2-25794" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\lib\signalr-client\dist\browser\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,1 @@
+D:\org\projects\fogbridge3\ActorModelDojo\src\SRworking\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

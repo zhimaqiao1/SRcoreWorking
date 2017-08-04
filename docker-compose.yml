@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  srworking:
+    image: srworking
+    build:
+      context: ./SRworking
+      dockerfile: Dockerfile

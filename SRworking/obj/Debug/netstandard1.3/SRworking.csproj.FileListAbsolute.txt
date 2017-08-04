@@ -1,0 +1,3 @@
+D:\org\projects\fogbridge3\ActorModelDojo\src\SRworking\SRworking\obj\Debug\netstandard1.3\SRworking.csproj.CoreCompileInputs.cache
+D:\org\projects\fogbridge3\ActorModelDojo\src\SRworking\SRworking\obj\Debug\netstandard1.3\SRworking.AssemblyInfoInputs.cache
+D:\org\projects\fogbridge3\ActorModelDojo\src\SRworking\SRworking\obj\Debug\netstandard1.3\SRworking.AssemblyInfo.cs
